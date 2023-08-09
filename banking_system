@@ -1,6 +1,6 @@
 use std::io;
 fn main() {
-    let mut balance = 1000.0; // current balance
+    let mut balance = 1000.0; // current balance amount 
 
     loop {
         println!("Select an option:");
